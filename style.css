@@ -1,0 +1,83 @@
+img.google{
+    
+    margin-left:350px;
+    margin-right: auto;
+    
+}
+
+
+a.about:link{
+    color: rgb(93, 93, 95);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left:10px;
+    font-size: small;
+    
+}
+
+a.about:hover{
+    color: rgb(93, 93, 95);
+    text-decoration: underline;
+}
+
+a.about:visited{
+    color: rgb(93, 93, 95);
+    text-decoration: none;
+}
+
+a.store:visited{
+    color: rgb(93, 93, 95);
+    text-decoration: none;
+}
+
+a.store:link{
+    color: rgb(93, 93, 95);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left:12px;
+    font-size: small;
+    
+}
+
+a.store:hover{
+    color: rgb(93, 93, 95);
+    text-decoration: underline;
+}
+
+a.gmail:link{
+    color: rgb(93, 93, 95);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left:750px;
+    font-size: small;
+    
+}
+
+a.gmail:hover{
+    color: rgb(93, 93, 95);
+    text-decoration: underline;
+}
+
+a.gmail:visited{
+    color: rgb(93, 93, 95);
+    text-decoration: none;
+}
+
+a.images:link{
+    color: rgb(93, 93, 95);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left:12px;
+    font-size: small;
+    
+}
+
+a.images:hover{
+    color: rgb(93, 93, 95);
+    text-decoration: underline;
+}
+
+a.images:visited{
+    color: rgb(93, 93, 95);
+    text-decoration: none;
+}
