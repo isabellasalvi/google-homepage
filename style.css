@@ -279,4 +279,34 @@ a.images:visited{
     color: rgb(93, 93, 95);
     text-decoration: none;
 }
+
+.ad:hover{
+    color: rgb(93, 93, 95);
+    text-decoration: underline;
+}
+
+.business:hover{
+    color: rgb(93, 93, 95);
+    text-decoration: underline;
+}
+
+.how:hover{
+    color: rgb(93, 93, 95);
+    text-decoration: underline;
+}
+
+.privacy:hover{
+    color: rgb(93, 93, 95);
+    text-decoration: underline;
+}
+
+.terms:hover{
+    color: rgb(93, 93, 95);
+    text-decoration: underline;
+}
+
+.settings:hover{
+    color: rgb(93, 93, 95);
+    text-decoration: underline;
+}
   
